@@ -12,6 +12,6 @@ In this notebook you can expect to see:
 The models I used for intent classification  are:
   * Simple ANN model
   * BiDirectional LSTM model based off of [Yu Wang, Yilin Shen & Hongxia Jin](https://arxiv.org/pdf/1812.10235v1.pdf)
-  * BERT transformer model. I used a pretrained model and changed it up a bit to work for my own problem.
+  * BERT transformer model (transfer learning). I used a pretrained model and changed it up a bit to work for my own problem.
 
 I think Natural Language Processing is very interesting and hope to work on more similar projects.
